@@ -1,7 +1,7 @@
 # 🎂 BEAN-CAKE – Spy Bot on Wheels 🤖📷
 
 **BEAN-CAKE** is a small, fast, and quiet spy robot that uses a high-speed coreless motor system and a live-streaming ESP32-S3-CAM to explore its surroundings! 
-It is controlled via a remote that has dual analog joysticks, a 4.0" TFT touch display, and real-time video feed — all over Wi-Fi!
+It is controlled via a remote that has two joysticks, a 4.0" TFT display, and real-time video feed.
 
 ---
 
