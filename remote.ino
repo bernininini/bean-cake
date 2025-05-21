@@ -1,61 +1,60 @@
-// NOTE: This sketch reads 2 analog joysticks, sends UDP motor commands to ESP32-CAM, and shows MJPEG stream on TFT.
-
+// BEAN-CAKE REMOTE: Dual joystick UDP sender + MJPEG viewer
 #include <WiFi.h>
 #include <WiFiUdp.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_ILI9341.h>
-#include <JPEGDecoder.h>
+#include <TFT_eSPI.h>
 #include <HTTPClient.h>
+#include <JPEGDecoder.h>
 
-#define CS 5
-#define DC 2
-#define RST 4
+const char* ssid = "BEANCAKE";
+const char* pwd = "beancake123";
+IPAddress ip(192, 168, 4, 1);
+WiFiUDP udp;
 
-Adafruit_ILI9341 d(CS, DC, RST);
+#define joyL A0
+#define joyR A3
 
-const char* ssid = "ESP32-CAM";
-const char* pass = "12345678";
+TFT_eSPI tft = TFT_eSPI();
+uint8_t buf[4];
 
-const char* h = "http://192.168.4.1:81/stream";
-const char* ip = "192.168.4.1";
-const int pt = 1234;
+void stWiFi() {
+  WiFi.begin(ssid, pwd);
+  while (WiFi.status() != WL_CONNECTED) delay(100);
+}
 
-WiFiUDP u;
-int lx = 34;
-int rx = 35;
+void txJoy() {
+  int jl = analogRead(joyL);
+  int jr = analogRead(joyR);
+  buf[0] = jl >> 8; buf[1] = jl & 0xFF;
+  buf[2] = jr >> 8; buf[3] = jr & 0xFF;
+  udp.beginPacket(ip, 1234);
+  udp.write(buf, 4);
+  udp.endPacket();
+}
+
+void stTFT() {
+  tft.init(); tft.setRotation(1); tft.fillScreen(TFT_BLACK);
+}
+
+void showImg() {
+  HTTPClient http;
+  http.begin("http://192.168.4.1/cam");
+  int c = http.GET();
+  if (c == 200) {
+    WiFiClient *s = http.getStreamPtr();
+    JpegDec.decodeSdFile(*s);
+    JpegDec.renderJPEG(0, 0);
+  }
+  http.end();
+}
 
 void setup() {
-  Serial.begin(115200);
-  d.begin();
-  d.setRotation(1);
-  WiFi.begin(ssid, pass);
-  while (WiFi.status() != WL_CONNECTED) delay(500);
-  u.begin(8888);
+  stWiFi();
+  stTFT();
+  udp.begin(1234);
 }
 
 void loop() {
-  int l = analogRead(lx);
-  int r = analogRead(rx);
-  l = map(l, 0, 4095, -255, 255);
-  r = map(r, 0, 4095, -255, 255);
-  char msg[20];
-  sprintf(msg, "%d,%d", l, r);
-  u.beginPacket(ip, pt);
-  u.write((const uint8_t*)msg, strlen(msg));
-  u.endPacket();
-  showVid();
-}
-
-void showVid() {
-  HTTPClient c;
-  c.begin(h);
-  int r = c.GET();
-  if (r == HTTP_CODE_OK) {
-    WiFiClient s = c.getStream();
-    if (s) {
-      JpegDec.decodeSdFile(s);
-      d.drawRGBBitmap(0, 0, JpegDec.pImage, JpegDec.width, JpegDec.height);
-    }
-  }
-  c.end();
+  txJoy();
+  showImg();
+  delay(100);
 }
