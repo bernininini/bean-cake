@@ -13,7 +13,7 @@ It is controlled via a remote that has two joysticks, a 4.0" TFT display, and re
 - 4.0" TFT color display on the controller
 - Battery-powered & lightweight 
 - 3D printed chassis and frame
-- Custom UI, LED indicators, and toggle switches**
+- LED indicators, and toggle switches**
 
 
 ## Hardware Components
