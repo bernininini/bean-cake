@@ -3,60 +3,42 @@
 > Prisca: 10.5 hours 
 > Bernice: 12.5 hours
 
-> _Updated until: May 21_
+Updated until: May 21
 
----
 
-## 🗓️ May 17
-**Activities:**
+🗓️ May 17
 - Brainstormed core idea and purpose of the bot
 - Researched small spy robots and similar IoT projects
 - Identified hardware components needed
 - Wrote initial sample code for communication
-
-**Time Spent:**
-- Prisca: 3.5 hr  
-- Bernice: 3 hr
+Prisca: 3.5 hr  
+Bernice: 3 hr
 
 ---
 
-## 🗓️ May 18
-**Activities:**
+🗓️ May 18
 - Sketched early design concept for the bot
 - Created a rough draft layout of hardware placement
-
-**Time Spent:**
-- Prisca: 2 hr  
-- Bernice: 2 hr
+Prisca: 2 hr  
+Bernice: 2 hr
 
 ---
 
-## 🗓️ May 19
-**Activities:**
+🗓️ May 19
 - Researched how to stream ESP32-CAM footage to an external display (TFT)
-
-**Time Spent:**
-- Bernice: 1.5 hr
+Bernice: 1.5 hr
 
 ---
 
-## 🗓️ May 20
-**Activities:**
+🗓️ May 20
 - Write up sample code for video streaming and motor control
 - Finalized list of hardware and component
-
-**Time Spent:**
-- Prisca: 2 hr  
-- Bernice: 3 hr
+Prisca: 2 hr  
+Bernice: 3 hr
 
 ---
 
-## 🗓️ May 21
-**Activities:**
+🗓️ May 21
 - Wrote working code for both the bot (ESP32-S3 CAM) and controller (ESP32 + joystick + TFT)
-
-**Time Spent:**
-- Prisca: 3 hr  
-- Bernice: 3 hr
-
----
+Prisca: 3 hr  
+Bernice: 3 hr
