@@ -1,0 +1,62 @@
+# 📔 BEAN-CAKE Project Journal !!!!!!!!!!!!!!
+
+> Prisca: 10.5 hours 
+> Bernice: 12.5 hours
+
+> _Updated until: May 21_
+
+---
+
+## 🗓️ May 17
+**Activities:**
+- Brainstormed core idea and purpose of the bot
+- Researched small spy robots and similar IoT projects
+- Identified hardware components needed
+- Wrote initial sample code for communication
+
+**Time Spent:**
+- Prisca: 3.5 hr  
+- Bernice: 3 hr
+
+---
+
+## 🗓️ May 18
+**Activities:**
+- Sketched early design concept for the bot
+- Created a rough draft layout of hardware placement
+
+**Time Spent:**
+- Prisca: 2 hr  
+- Bernice: 2 hr
+
+---
+
+## 🗓️ May 19
+**Activities:**
+- Researched how to stream ESP32-CAM footage to an external display (TFT)
+
+**Time Spent:**
+- Bernice: 1.5 hr
+
+---
+
+## 🗓️ May 20
+**Activities:**
+- Write up sample code for video streaming and motor control
+- Finalized list of hardware and component
+
+**Time Spent:**
+- Prisca: 2 hr  
+- Bernice: 3 hr
+
+---
+
+## 🗓️ May 21
+**Activities:**
+- Wrote working code for both the bot (ESP32-S3 CAM) and controller (ESP32 + joystick + TFT)
+
+**Time Spent:**
+- Prisca: 3 hr  
+- Bernice: 3 hr
+
+---
