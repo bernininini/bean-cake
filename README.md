@@ -8,8 +8,8 @@ Bean cake is a spy bot that is small in size and has a motor that can travel fas
 
 **FEATUREs**
 
-Quiet and Fast Motors
-Color Display
-Smart Communication (via wifi)
-Rechargeable Power (Lipo-Battery)
-Custom 3D-Printed Design (Cake-inspired design using PLA filament)
+- Quiet and Fast Motors
+- Color Display
+- Smart Communication (via wifi)
+- Rechargeable Power (Lipo-Battery)
+- Custom 3D-Printed Design (Cake-inspired design using PLA filament)
