@@ -1,4 +1,4 @@
-# 📔 BEAN-CAKE Project Journal !!!!!!!!!!!!!!
+# 📔 BEAN-CAKE Project Journal !!!!!!!!!!!!!!#
 ---
 title: BEAN-CAKE
 author: PRISCA CHIEN & BERNICE QIU (U0741Q95Y02 / U0741Q95Y02)
