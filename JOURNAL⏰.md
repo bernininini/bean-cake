@@ -6,14 +6,14 @@ author: PRISCA CHIEN & BERNICE QIU (U0741Q95Y02 / U0741Q95Y02)
 
 description: CAKE INSPRIED SPY BOT
 
-created_at: 2025-MAY-17th
+created_at: May 17
 
 ---
 
 > Prisca: 10.5 hours 
 > Bernice: 12.5 hours
 
-Updated until: May 21
+_Updated until: May 21_
 
 
 🗓️ May 17
