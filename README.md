@@ -33,7 +33,7 @@ LEDs, Switches, Bearings UI and mechanical support
 
 - The ESP32-S3-CAM streams MJPEG video via Wi-Fi.
 - The ESP32:
-  - Sends joystick input (PWM mapped) over UDP or HTTP.
+  - Sends joystick input (pwm map) over UDP or HTTP.
   - Receives and displays the live video feed.
 - The bot's motor speed/direction is based on joystick analog values.
 
