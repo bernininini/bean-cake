@@ -1,9 +1,13 @@
 # 📔 BEAN-CAKE Project Journal !!!!!!!!!!!!!!#
 ---
-title: BEAN-CAKE
+TITLE: BEAN-CAKE
+
 author: PRISCA CHIEN & BERNICE QIU (U0741Q95Y02 / U0741Q95Y02)
+
 description: CAKE INSPRIED SPY BOT
+
 created_at: 2025-MAY-17th
+
 ---
 
 > Prisca: 10.5 hours 
