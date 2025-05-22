@@ -1,4 +1,4 @@
-# 📔 BEAN-CAKE Project Journal !!!!!!!!!!!!!!#
+# 📔 BEAN-CAKE Project Journal !!!!!!!!!!!!!!
 ---
 TITLE: BEAN-CAKE
 
