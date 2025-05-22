@@ -12,8 +12,7 @@ It is controlled via a remote that has two joysticks, a 4" TFT display, and real
 - High-speed, quiet coreless motors
 - 4.0" TFT color display on the controller
 - Battery-powered & lightweight 
-- 3D printed chassis and frame
-- LED indicators, and toggle switches
+
 
 
 ## Hardware Components
