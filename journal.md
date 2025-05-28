@@ -17,7 +17,7 @@ CREATE DATE: May 17
 _Updated until: May 21_
 
 
-🗓️ May 17
+### 🗓️ May 17
 - Brainstormed core idea and purpose of the bot
 - Researched small spy robots and similar IoT projects
 - Identified hardware components needed
@@ -28,7 +28,7 @@ Bernice: 3 hr
 
 ---
 
-🗓️ May 18
+### 🗓️ May 18
 - Created a rough draft layout of hardware placement
   *did it on paper so, ill be uploading a pic laeter...(pic#1)
 
@@ -37,7 +37,7 @@ Bernice: 2 hr
 
 ---
 
-🗓️ May 19
+### 🗓️ May 19
 - Researched how to stream ESP32-CAM footage to an external display (TFT)
   *we didnt really have pics on that
 
@@ -45,7 +45,7 @@ Bernice: 1.5 hr
 
 ---
 
-🗓️ May 20
+### 🗓️ May 20
 - Write up sample code for video streaming and motor control
   *with the wiring we had on May18, we tried to write same sample on simulators but the simulators did not have the component we need. And did also does not support wifi.
 - Finalized list of hardware and component
@@ -56,7 +56,7 @@ Bernice: 3 hr
 
 ---
 
-🗓️ May 21
+### 🗓️ May 21
 - Wrote working code for both the bot (ESP32-S3 CAM) and controller (ESP32 + joystick + TFT)
   *according the online sample code and reference, we tried to write code the bot and remote again. Hope it works when we have the part.
 
@@ -65,8 +65,12 @@ Bernice: 3 hr
 
 ---
 
-🗓️ May 28
- - 
+### 🗓️ May 28
+ - Caddding the case for the box with estimated measurement
+ - Formatting the github repo
+ - Shipping the Projects
+Prisca: 2 hr
+Bernice: 2 hr
 
 ![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc723e82179886e6080a82b3b81318e3b7b625dd_case.png)
 ---
