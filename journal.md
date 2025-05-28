@@ -69,8 +69,11 @@ Bernice: 3 hr
  - Caddding the case for the box with estimated measurement
  - Formatting the github repo
  - Shipping the Projects
-Prisca: 2 hr
-Bernice: 2 hr
+ - Using KiCAD to do the schematics (BOT)
+ - Debug Code / Update BOM (BOT)
+Prisca: 4 hr
+Bernice: 4 hr
 
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70c8af71ba6829d1b4bb55c130ba6df291bfc610_image.png)
 ![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc723e82179886e6080a82b3b81318e3b7b625dd_case.png)
 ---
