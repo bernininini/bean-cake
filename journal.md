@@ -21,7 +21,6 @@ _Updated until: June 9, 2025_
 - Brainstormed core idea and purpose of the bot
 - Researched small spy robots and similar IoT projects
 - Identified hardware components needed
-- Wrote initial sample code for communication
 
 Prisca: 3.5 hr  
 Bernice: 3 hr
@@ -82,7 +81,6 @@ Bernice: 4 hr
 ### 🗓️ June 7/9
 - Completing the schematics of both the remote and robot
 - Realize that the power source that we were using could cause safty issue so we re did a lot of sourse listing because switch of power sourses. 
-- Rewrite sample code
 - Because the first version did not consider the toggle switch and also forgot the switch button on the joystick
 - Updating the BOM 
 
