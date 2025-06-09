@@ -1,0 +1,15 @@
+Reference,Value,Footprint,Datasheet,Qty,DNP,Exclude from BOM,Exclude from Board,Notes
+JS1,Joystick XY w/ Button,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,,1,,,,Remote
+JS2,Joystick XY w/ Button,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,,1,,,,Remote
+SW1,SPDT Toggle Switch,Switch:SW_SPDT_PCM12,,1,,,,Remote mode toggle
+PB1,Push Button,Button_Switch_SMD:SW_SPST_EVQPE1,,2,,,,Joystick click (both sides)
+U1,ESP32-S3-WROOM-1,RF_Module:ESP32-S3-WROOM-1,https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf,1,,,,Robot (control)
+U2,TB6612FNG,Package_SO:SSOP-24_5.3x8.2mm_P0.65mm,https://toshiba.semicon-storage.com/us/product/linear/motordriver/detail.TB6612FNG.html,1,,,,Robot motor driver
+U3,ESP32-CAM,esp32-cam:ESP32-CAM,https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/,1,,,,Robot (camera stream)
+U4,ESP32-S2-WROVER,RF_Module:ESP32-S2-WROVER,https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf,1,,,,Remote controller
+U5,TFT 2.4” SPI ILI9341,z_Devices:TFT_320x240_SPI,https://www.displayfuture.com/Display/datasheet/controller/ILI9341.pdf,1,,,,Remote display
+M1,DC Gear Motor,Motor:DC_Motor_Mount_Holes,,1,,,,Robot drive
+M2,DC Gear Motor,Motor:DC_Motor_Mount_Holes,,1,,,,Robot drive
+B1,LiPo Battery 3.7V 1000mAh,Battery:LiPo_Pack_Single_Cell,,2,,,,Power (one each side)
+VR1,AMS1117 3.3V Regulator,Package_TO_SOT_SMD:SOT-223,https://www.sparkfun.com/datasheets/Components/AMS1117.pdf,2,,,,For ESP and logic
+VR2,Buck Converter 9.6V to 5V,Module:Buck_Converter_Mini360,,1,,,,Power motors
