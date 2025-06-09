@@ -41,7 +41,7 @@ LEDs, Switches, Bearings UI and mechanical support
 
 ### Wiring 
 
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a3daa7d601bfdbcf53d226134531cf7152a84bfa_image.png)
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/74f287a2f1e37b3dd3de16ca6b0875915391db95_image.png)
 
 ---
 
