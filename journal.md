@@ -10,11 +10,11 @@ CREATE DATE: May 17
 
 ---
 
-> Prisca: 10.5 hours
+> Prisca: 18.5 hours
 > 
-> Bernice: 12.5 hours
+> Bernice: 20.5 hours
 
-_Updated until: May 21_
+_Updated until: June 9, 2025_
 
 
 ### 🗓️ May 17
@@ -30,7 +30,7 @@ Bernice: 3 hr
 
 ### 🗓️ May 18
 - Created a rough draft layout of hardware placement
-  *did it on paper so, ill be uploading a pic laeter...(pic#1)
+  *did it on paper so, ill be uploading a pic laeter...(still cant find it....oops 👉👈)
 
 Prisca: 2 hr  
 Bernice: 2 hr
@@ -76,4 +76,15 @@ Bernice: 4 hr
 
 ![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70c8af71ba6829d1b4bb55c130ba6df291bfc610_image.png)
 ![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc723e82179886e6080a82b3b81318e3b7b625dd_case.png)
+
 ---
+
+### 🗓️ June 7/9
+- Completing the schematics of both the remote and robot
+- Realize that the power source that we were using could cause safty issue so we re did a lot of sourse listing because switch of power sourses. 
+- Rewrite sample code
+- Because the first version did not consider the toggle switch and also forgot the switch button on the joystick
+- Updating the BOM 
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a3daa7d601bfdbcf53d226134531cf7152a84bfa_image.png)
+Prisca: 4 hr
+Bernice: 4 hr
