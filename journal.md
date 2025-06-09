@@ -85,7 +85,8 @@ Bernice: 4 hr
 - Rewrite sample code
 - Because the first version did not consider the toggle switch and also forgot the switch button on the joystick
 - Updating the BOM 
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a3daa7d601bfdbcf53d226134531cf7152a84bfa_image.png)
+
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/74f287a2f1e37b3dd3de16ca6b0875915391db95_image.png)
 
 Prisca: 4 hr
 
