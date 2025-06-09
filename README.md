@@ -14,10 +14,9 @@ It is controlled via a remote that has two joysticks, a 4" TFT display, and real
 - 4.0" TFT color display on the controller
 - Battery-powered & lightweight 
 
-
+---
 
 ## Hardware Components
-
 
 ESP32-S3-CAM - camera and bot brain
 4.0" TFT ILI9341 - live camera stream + user input
@@ -28,7 +27,7 @@ H31 3.7V LiPo Battery
 LEDs, Switches, Bearings UI and mechanical support
 3D Printed Parts Track system, frame (bot + remote)
 
-
+---
 
 ## FUNCTIONS
 
@@ -37,6 +36,18 @@ LEDs, Switches, Bearings UI and mechanical support
   - Sends joystick input (pwm map) over UDP or HTTP.
   - Receives and displays the live video feed.
 - The bot's motor speed/direction is based on joystick analog values.
+
+---
+
+### Wiring 
+
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a3daa7d601bfdbcf53d226134531cf7152a84bfa_image.png)
+
+---
+
+### BOM
+
+(to be upload......)
 
 
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/15eceeee411db0427bced594fc419bf501cb2a2f_screenshot_2025-06-07_at_4.37.19___pm.png)
