@@ -11,5 +11,4 @@ U5,TFT 2.4” SPI ILI9341,z_Devices:TFT_320x240_SPI,https://www.displayfuture.co
 M1,DC Gear Motor,Motor:DC_Motor_Mount_Holes,,1,,,,Robot drive
 M2,DC Gear Motor,Motor:DC_Motor_Mount_Holes,,1,,,,Robot drive
 B1,LiPo Battery 3.7V 1000mAh,Battery:LiPo_Pack_Single_Cell,,2,,,,Power (one each side)
-VR1,AMS1117 3.3V Regulator,Package_TO_SOT_SMD:SOT-223,https://www.sparkfun.com/datasheets/Components/AMS1117.pdf,2,,,,For ESP and logic
 VR2,Buck Converter 9.6V to 5V,Module:Buck_Converter_Mini360,,1,,,,Power motors
