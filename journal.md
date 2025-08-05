@@ -82,10 +82,35 @@ Bernice: 4 hr
 - Completing the schematics of both the remote and robot
 - Realize that the power source that we were using could cause safty issue so we re did a lot of sourse listing because switch of power sourses. 
 - Because the first version did not consider the toggle switch and also forgot the switch button on the joystick
-- Updating the BOM 
+- Updating the BOM
 
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/74f287a2f1e37b3dd3de16ca6b0875915391db95_image.png)
+---
 
-Prisca: 4 hr
+### 🗓️ August 3
+- Re-cadded the design of the bot to a minecraft cake as it would be easier for it to hide in plain sight
+  - Added four N20 motors and designed own wheels
+  - Wheels are placed inside the box and as low as possible such that the cake is as inconspicuous as possible
+  - Secret button switch cadded
+- Bought new ESP32 camera as our old one broke
+- Coded new ESP32 camera
 
-Bernice: 4 hr
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/da21820560a9dca2d811eca22d9c943ad8aacbc4_screenshot_2025-08-04_at_9.51.27___pm.png)
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cf6e6ff371686b67fa15dfa371731b4188bf66b8_screenshot_2025-08-04_at_9.51.47___pm.png)
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fd3efcdeaa82ef9a1083fc76fbabc1caf604a66b_screenshot_2025-08-04_at_9.55.16___pm.png)
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d3db2723ba67fafee47bcc46325554bfeb5c0ade_screenshot_2025-08-04_at_10.00.04___pm.png)
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b956096c04dcfc743ccd5e1fefd80c0e9a48cf52_screenshot_2025-08-04_at_10.00.33___pm.png)
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/79ea4cbb7cea07e6aadb3ce67414b67d1be4c16c_screenshot_2025-08-04_at_10.03.53___pm.png)
+
+Prisca: 6 hr
+
+Bernice: 6 hr
+
+---
+
+### 🗓️ August 5
+- Printed tires made from TPU
+- Printed rest of cake using PLA
+
+Prisca: hr
+
+Bernice: hr
