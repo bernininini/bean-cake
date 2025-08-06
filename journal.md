@@ -108,8 +108,21 @@ Bernice: 6 hr
 ---
 
 ### 🗓️ August 5
-- Printed tires made from TPU
-- Printed rest of cake using PLA
+- Printed cake toppings from PLA
+- Printed wheel connectors to motors and attached it to motors
+- Attached button to the center topping of cake
+- Continued coding and wiring the ESP32-Cam and ESP32-32D
+
+Prisca: 4 hr
+
+Bernice: hr
+
+---
+
+### 🗓️ August 6
+- Printed cake top and bottom from PLA
+- Printed wheel tires from TPU
+- 
 
 Prisca: hr
 
