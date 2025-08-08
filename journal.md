@@ -14,7 +14,7 @@ CREATE DATE: May 17
 > 
 > Bernice: 20.5 hours
 
-_Updated until: June 9, 2025_
+_Updated until: August 7, 2025_
 
 
 ### 🗓️ May 17
@@ -122,7 +122,21 @@ Bernice: hr
 ### 🗓️ August 6
 - Printed cake top and bottom from PLA
 - Printed wheel tires from TPU
-- 
+- Worked on coding 
+
+Prisca: hr
+
+Bernice: hr
+
+---
+
+### 🗓️ August 7
+- Reprinted center piece
+- Finished coding:
+  - Motors and motor driver (N20 DC motors, L9110S)
+  - Arduino to ESP8266 serial connection
+  - ESP8266 to ESP8266 wireless connection
+  - 
 
 Prisca: hr
 
