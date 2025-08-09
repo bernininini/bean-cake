@@ -10,9 +10,9 @@ CREATE DATE: May 17
 
 ---
 
-> Prisca: 18.5 hours
+> Prisca: 55 hours
 > 
-> Bernice: 20.5 hours
+> Bernice: 5 hours
 
 _Updated until: August 7, 2025_
 
