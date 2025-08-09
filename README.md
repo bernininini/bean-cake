@@ -38,6 +38,13 @@ LEDs, Switches, Bearings UI and mechanical support
 - The bot's motor speed/direction is based on joystick analog values.
 
 ---
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd96ab56cc75483d5874863f88bd0fe8a44abc28_whatsapp_image_2025-08-07_at_10.11.06_pm__2_.jpeg)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9d67e2edf9a91d085d40766d2ab60f46293567b7_whatsapp_image_2025-08-07_at_10.11.07_pm__1_.jpeg)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1693aa644e75c9b0f65182dbd5a2b86d25dac663_whatsapp_image_2025-08-07_at_10.11.07_pm__3_.jpeg)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/72a1d75ac5338ced5095e8e998dc1842159e2b42_whatsapp_image_2025-08-07_at_10.11.07_pm__4_.jpeg)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5beb9c20556b898a1f16a963e7fa23293595cd2_whatsapp_image_2025-08-07_at_10.11.07_pm.jpeg)
+
+---
 
 ### Wiring 
 
