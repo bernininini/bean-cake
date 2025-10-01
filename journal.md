@@ -109,13 +109,13 @@ Bernice: 6 hr
 
 ### 🗓️ August 5
 - Printed cake toppings from PLA
-- Printed wheel connectors to motors and attached it to motors
-- Attached button to the center topping of cake
+- Printed wheel connectors to the motors and attached them to the motors
+- Attached the button to the center of the cake
 - Continued coding and wiring the ESP32-Cam and ESP32-32D
 
 Prisca: 4 hr
 
-Bernice: hr
+Bernice: 4hr
 
 ---
 
@@ -124,9 +124,9 @@ Bernice: hr
 - Printed wheel tires from TPU
 - Worked on coding 
 
-Prisca: hr
+Prisca: 4hr
 
-Bernice: hr
+Bernice: 2hr
 
 ---
 
@@ -138,6 +138,28 @@ Bernice: hr
   - ESP8266 to ESP8266 wireless connection
   - 
 
-Prisca: hr
+Prisca: 7hr
 
-Bernice: hr
+Bernice: 6hr
+
+
+---
+
+### 🗓️ August 13th +
+- Wiring everything together with a breadboard and jump wires to test if this entire system works or not
+- Troubleshooting wiring connections.
+- Switching power supplies
+- rewriting access point communication
+- Soldering and finalizing wiring
+- Assemble components and power supply onto the 3d prints (the bot itself)
+- unsoldering stuff because not all components fit inside the bot frame, also change of power supply again
+- reassemble the bot
+- Re-adjusting the drive base to tank drive style
+- wiring the controller
+- having the Arduino and ESP8266 taped on a beadboard as the controller because I(berni) forgot the model of the controller case
+- Change of power supply for the controller, because Dollarama was closed and we don't have an extra 9V battery, so we have decided to use our phone as the battery for the controller.
+#one of a lifetime experience: stay at Pizza Pizza until 12 midnight with Prisca... fun!!!!
+
+
+Prisca: 8hr
+Bernice: 9hr
